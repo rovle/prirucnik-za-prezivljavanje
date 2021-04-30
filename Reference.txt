@@ -1,0 +1,44 @@
+1. A comparison of deep learning performance against health-care professionals in detecting diseases from medical imaging: a systematic review and meta-analysis, Liu et al., https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30123-2/fulltext
+Meta-analiza usporedbe DL modela i liječnika.
+
+2. Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scans, Roberts et al., https://www.nature.com/articles/s42256-021-00307-0
+review ML modela za dijagnostiku i prognoziranja COVID-a.
+
+3. https://en.wikipedia.org/wiki/Anti-tank_dog#Deployment_by_the_Soviet_Union
+O anti-tenk psima i problemima s njihovima treniranjem.
+
+4. https://nitter.cc/sigfpe/status/919995891502551042
+Anotacije kao izvor dataset biasa.
+
+5. https://www.sciencedirect.com/science/article/pii/S0022202X18322930
+Ravnala kao značajke.
+
+6. Statistical Rethinking, Richard McElreath, 7. poglavlje u drugom izdanju
+Priča o razlici između Ptolomejevog geocentričnog modela i originalnog Kopernikovog modela.
+
+7. Reconciling modern machine learning practice and the bias-variance trade-off, Belkin et al., https://arxiv.org/abs/1812.11118
+O bias-variance tradeoffu (ili njegovom nedostatku) u modernom ML-u.
+
+8. Neurons in the mouse brain correlate with cryptocurrency price: a cautionary tale, Guido Meijer, https://psyarxiv.com/fa4wz/
+O "nonsense korelacijama" između aktivnosti neurona u mišjem mozgu i cijene kriptovaluta.
+
+9. One neuron versus deep learning in aftershock prediction, Mignan i Broccardo, https://www.nature.com/articles/s41586-019-1583-7.pdf?origin=ppub
+O logističkoj regresiji koja radi jednako dobro kao duboka neuronska mreža.
+
+10. https://stats.stackexchange.com/questions/65128/nested-cross-validation-for-model-selection
+Neki detalji o nested CV-u koje nisam stigao objasniti.
+
+11. https://en.wikipedia.org/wiki/Replication_crisis / https://www.gwern.net/Replication
+Više o replication crisisu.
+
+12. https://www.nytimes.com/2021/04/08/health/coronavirus-mrna-kariko.html
+Članak o znanstvenici koja ja otkrila sigurni način za ubrizgavanje strane mRNA u organizme.
+
+13. The Book of Why: The New Science of Cause and Effect, Pearl i Mackenzie
+Knjiga iz koje je uzet citat Judeae Pearla, a i također dobar izvor za saznati više o kauzalnoj analizi.
+
+14. Reducing bias through directed acyclic graphs, Shrier i Platt, https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-8-70
+Izvor za kauzalni graf o ozljedama.
+
+15. https://www.efektivnialtruizam.org
+Ako vas zanima više o efektivnom altruizmu. :)
